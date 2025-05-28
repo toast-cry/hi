@@ -1,0 +1,35 @@
+body {
+    font-family: "Poetsen One", sans-serif;
+}
+
+.link-nav {
+    color: #27548A;
+    text-decoration: none;
+}
+
+.link-header {
+    text-decoration: none;
+    color: #27548A;
+    margin-left: 30px;
+}
+
+header img:hover {
+    width: 80px;
+    height: 50px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+header img {
+    margin-right: 10px;
+    position: fixed;
+    left: 700px;
+}
+
+li {
+    margin-top: 20px;
+}
+
