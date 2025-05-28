@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <title>Leon</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <header>
+      <img src="https://learn.alg.academy/uploads/student/5179574/681b565cc3dec.png">
+      <a class="link-header" href="leon.html">Leon</a>
+    </header>
+    <main>
+      <nav>
+        <a class="link-nav" href="hello.html"><b>About me</b></a>
+        <a class="link-nav" href="hi.html"><b>Something</b></a>
+      </nav>
+      <h1>Things that<br/>I learned</h1>
+      <ul>
+        <li> Pseudo class</li>
+        <li> Containers</li>
+        <li> 2D animations and interactive elements</li>
+        <li> multimedia on the website</li>
+      </ul>
+      <img src="/uploads/2021/04/carousel-1684591_0_1618254197.svg" width="830px" height="550px"/>
+    </main>
+    <footer>
+      <a class="social" href=""><img src="/uploads/2021/04/social1_0_1618254571.png" width="100px" height="100px"/></a>
+      <a class="social" href=""><img src="/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
+      <a class="social" href=""><img src="/uploads/2021/04/social3_0_1618254571.png" width="100px" height="100px"/></a>
+    </footer>
+  </body>
+</html>
