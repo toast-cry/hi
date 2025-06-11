@@ -3,8 +3,12 @@ body {
 }
 
 .link-nav {
-    color: #27548A;
+    color: white;
     text-decoration: none;
+    background-color: #6DB3F2;
+    background-image: linear-gradient(to right, rgba(47, 62, 218, 0.69), rgb(61, 27, 212));
+    padding: 5px;
+    border-radius: 10px;
 }
 
 .link-header {
